@@ -18,3 +18,8 @@ want to split commits this way?::: We commit a and b  and then c sepertely becau
 #### In answers.md , answer: What would happen if you made a local commit first WITHOUT
 pulling? What command helps you check?:::: if we made a local commit first there will b a conflict if someone do a work seperately there will be the conflict.
 
+#####  In answers.md : Did this merge create a merge commit or was it a fast-forward? How
+can you tell? :: it was a fast forward. i can tell by see the cmd message.
+
+
+
