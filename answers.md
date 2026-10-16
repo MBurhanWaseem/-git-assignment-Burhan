@@ -12,3 +12,9 @@
 ### ANSWER3: What does the cd .. command do? What about cd: 
 
 
+#### Why did we commit A+B separately from C? When would you
+want to split commits this way?::: We commit a and b  and then c sepertely because a and b doing the same work and the c did the different work. we want split commits this way when we want to do different workfrom different files.
+
+#### In answers.md , answer: What would happen if you made a local commit first WITHOUT
+pulling? What command helps you check?:::: if we made a local commit first there will b a conflict if someone do a work seperately there will be the conflict.
+
