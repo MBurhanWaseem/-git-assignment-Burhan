@@ -4,5 +4,6 @@
 Role: DATA ANALYST
 Favorite Git command: [pick one]
 
-
+##Joined:
+[10] [2026] .
 
