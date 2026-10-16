@@ -1,5 +1,8 @@
 ef add(a, b):
 return a + b
 def subtract(a, b):
+def multiply(a, b):
+return a * b
 return a - b
-print("Calculator ready.")
+print("Calculator ready. Supports: add, subtract,
+multiply.")

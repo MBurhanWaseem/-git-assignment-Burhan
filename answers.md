@@ -21,5 +21,13 @@ pulling? What command helps you check?:::: if we made a local commit first there
 #####  In answers.md : Did this merge create a merge commit or was it a fast-forward? How
 can you tell? :: it was a fast forward. i can tell by see the cmd message.
 
+### Why did this conflict happen? (Reference the rule: same file, same line)??
+####because we are changing in the same line and the same file so that the conflict happened.
 
 
+
+### Would there have been a conflict if the two branches edited different lines of
+team.txt ? no there is no conflict because the  files are different
+
+#### Would there have been a conflict if one branch edited team.txt and the other
+edited about.md ? no beacuse the files are different. there is a no conflict.
